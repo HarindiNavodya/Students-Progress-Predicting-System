@@ -1,1 +1,1 @@
-# Students-Progress-Predicting-System
+# Students Progress Predicting System
